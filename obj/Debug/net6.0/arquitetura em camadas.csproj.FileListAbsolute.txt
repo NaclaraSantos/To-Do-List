@@ -1,0 +1,26 @@
+C:\Users\usuário\arquitetura em camadas\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\usuário\arquitetura em camadas\bin\Debug\net6.0\appsettings.json
+C:\Users\usuário\arquitetura em camadas\bin\Debug\net6.0\arquitetura em camadas.staticwebassets.runtime.json
+C:\Users\usuário\arquitetura em camadas\bin\Debug\net6.0\arquitetura em camadas.exe
+C:\Users\usuário\arquitetura em camadas\bin\Debug\net6.0\arquitetura em camadas.deps.json
+C:\Users\usuário\arquitetura em camadas\bin\Debug\net6.0\arquitetura em camadas.runtimeconfig.json
+C:\Users\usuário\arquitetura em camadas\bin\Debug\net6.0\arquitetura em camadas.dll
+C:\Users\usuário\arquitetura em camadas\bin\Debug\net6.0\arquitetura em camadas.pdb
+C:\Users\usuário\arquitetura em camadas\obj\Debug\net6.0\arquitetura em camadas.csproj.AssemblyReference.cache
+C:\Users\usuário\arquitetura em camadas\obj\Debug\net6.0\arquitetura em camadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuário\arquitetura em camadas\obj\Debug\net6.0\arquitetura em camadas.AssemblyInfoInputs.cache
+C:\Users\usuário\arquitetura em camadas\obj\Debug\net6.0\arquitetura em camadas.AssemblyInfo.cs
+C:\Users\usuário\arquitetura em camadas\obj\Debug\net6.0\arquitetura em camadas.csproj.CoreCompileInputs.cache
+C:\Users\usuário\arquitetura em camadas\obj\Debug\net6.0\arquitetura em camadas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\usuário\arquitetura em camadas\obj\Debug\net6.0\arquitetura em camadas.RazorAssemblyInfo.cache
+C:\Users\usuário\arquitetura em camadas\obj\Debug\net6.0\arquitetura em camadas.RazorAssemblyInfo.cs
+C:\Users\usuário\arquitetura em camadas\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\usuário\arquitetura em camadas\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\usuário\arquitetura em camadas\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\usuário\arquitetura em camadas\obj\Debug\net6.0\scopedcss\bundle\arquitetura em camadas.styles.css
+C:\Users\usuário\arquitetura em camadas\obj\Debug\net6.0\scopedcss\projectbundle\arquitetura em camadas.bundle.scp.css
+C:\Users\usuário\arquitetura em camadas\obj\Debug\net6.0\arquitetura em camadas.dll
+C:\Users\usuário\arquitetura em camadas\obj\Debug\net6.0\refint\arquitetura em camadas.dll
+C:\Users\usuário\arquitetura em camadas\obj\Debug\net6.0\arquitetura em camadas.pdb
+C:\Users\usuário\arquitetura em camadas\obj\Debug\net6.0\arquitetura em camadas.genruntimeconfig.cache
+C:\Users\usuário\arquitetura em camadas\obj\Debug\net6.0\ref\arquitetura em camadas.dll

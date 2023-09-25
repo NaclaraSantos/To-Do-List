@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "arquitetura em camadas/1.0.0": {
+        "runtime": {
+          "arquitetura em camadas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "arquitetura em camadas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
